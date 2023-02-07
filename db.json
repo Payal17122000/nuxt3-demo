@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "John@gmail.com",
+      "username": "johnd",
+      "password": "m38rmF$",
+      "firstname": "John",
+      "lastname": "Doe",
+      "city": "kilcoole",
+      "street": "7835 new road",
+      "number": "34",
+      "zipcode": "12926-3874",
+      "phone": "1-570-236-7033"
+    }
+  ]
+}
